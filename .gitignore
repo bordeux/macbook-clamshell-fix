@@ -1,0 +1,6 @@
+# compiled binaries
+/display-on
+/lid-angle
+/lid-watch
+/lid-sleepguard
+.DS_Store
